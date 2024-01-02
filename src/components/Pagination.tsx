@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Theme } from "@mui/system";
+import { Box } from "@mui/system";
 import { DarkTheme } from "@/themes/DarkTheme";
 import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";

@@ -6,7 +6,6 @@ interface CustomPalette {
     dark: string;
   };
 }
-
 export const LightTheme = createTheme({
   breakpoints: {
     values: {
